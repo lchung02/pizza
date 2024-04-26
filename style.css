@@ -1,0 +1,107 @@
+.main{
+	background-color: #FDF9EE;
+}
+.apollobanner{
+	background: linear-gradient(to bottom, #C62E2E 85%, #C62E2E 75%, orange 55%);
+	color: #fff;
+	font-family: arial, sans-serif;
+	font-size: 25px;
+	padding: 10px;
+	width: 100%;
+	top: 0;
+	text-align: center;
+}
+.center{
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}
+.linknav{
+	background-color: #5A5A58;
+	overflow: hidden;
+}
+.linknav a{
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: arial, sans-serif;
+}
+.linknav a:hover{
+	background-color: #ddd;
+	color: black;
+}
+.linknav a.active{
+	background-color: #C62E2E;
+	color: white;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.break{
+	clear: both;
+}
+.title{
+	font-family: arial, sans-serif;
+	font-size: 20px;
+}
+p{
+	font-family: arial, sans-serif;
+}
+.psnl{
+	display: inline-block;
+	border-radius:100px;
+	margin: 50px;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	background-color:#C62E2E;
+	border:2px solid black;
+	color: white;
+}
+.small{
+	display: inline-block;
+	border-radius:100px;
+	margin: 50px;
+	width: 65px;
+	height: 65px;
+	text-align: center;
+	line-height: 65px;
+	background-color:#C62E2E;
+	border:2px solid black;
+	color: white;
+}
+.medium{
+	display: inline-block;
+	border-radius:100px;
+	margin: 50px;
+	width: 85px;
+	height: 85px;
+	text-align: center;
+	line-height: 85px;
+	background-color:#C62E2E;
+	border:2px solid black;
+	color: white;
+}
+.large{
+	display: inline-block;
+	border-radius:100px;
+	margin: 50px;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	background-color:#C62E2E;
+	border:2px solid black;
+	color: white;
+}
+.warning{
+	font-family: arial, sans-serif;
+	color: #C62E2E
+}
